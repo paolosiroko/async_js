@@ -52,6 +52,9 @@ createPosts({ title: "post three", body: "my post" }, getPosts).then(getPosts);
 
 // fetchusers();
 
+
+//promise.all
+
 // const promise = Promise.resolve("Hello paolo");
 // const promise1 = 24;
 // const promise2 = new Promise((resolve, reject) => {
